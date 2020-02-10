@@ -1,0 +1,53 @@
+{
+  "name": "pre_fix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "satyendra gupta",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "async": "^2.6.1",
+    "async-waterfall": "^0.1.5",
+    "bulkify": "^1.4.2",
+    "cors": "^2.8.4",
+    "countryjs": "^1.8.0",
+    "crypto": "^1.0.1",
+    "express": "^4.16.3",
+    "express-fileupload": "^1.1.6",
+    "express-validator": "^6.3.1",
+    "fs": "0.0.1-security",
+    "helmet": "^3.21.2",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "mailgen": "^2.0.5",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.1",
+    "mongoose-paginate": "^5.0.3",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "mv": "^2.1.1",
+    "nodemailer": "^6.4.2",
+    "nodemailer-sendgrid-transport": "^0.2.0",
+    "nodemon": "^1.18.4",
+    "path": "^0.12.7",
+    "random-number": "0.0.9",
+    "random-number-generator": "^1.0.2",
+    "randomstring": "^1.1.5",
+    "sendgrid": "^5.2.3",
+    "underscore": "^1.9.1",
+    "util": "^0.12.1",
+    "util.promisify": "^1.0.0",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {
+    "debug": "^4.1.1",
+    "node-dev": "^3.0.0",
+    "prettier": "^1.19.1"
+  }
+}
