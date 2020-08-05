@@ -18,7 +18,7 @@
     "countryjs": "^1.8.0",
     "crypto": "^1.0.1",
     "express": "^4.16.3",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.1.9",
     "express-validator": "^6.3.1",
     "fs": "0.0.1-security",
     "helmet": "^3.21.2",
